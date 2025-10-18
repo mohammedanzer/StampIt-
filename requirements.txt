@@ -1,0 +1,6 @@
+customtkinter
+docxtpl
+pandas
+CTkMessagebox
+CTkMenuBar
+pandastable
